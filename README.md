@@ -4,5 +4,3 @@ Código em Assembly que verifica se um argumento passado ao programa corresponde
 
 - A pasta **`cofre32/`** contém a implementação para **x86 (32 bits)**.
 - A pasta **`cofre64/`** contém a implementação para **x86_64 (64 bits)**.
-
----
