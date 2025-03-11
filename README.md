@@ -1,4 +1,4 @@
-# 🔐 Password Comparator in Assembly / Comparador de Senha em Assembly (x86 e x86_64)
+# 🔐 Password Comparator in Assembly / Comparador de Senha em Assembly
 
 ## 🇺🇸 English
 
