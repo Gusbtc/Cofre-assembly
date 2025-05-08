@@ -1,4 +1,4 @@
-# 🔐 Password Comparator in Assembly / Comparador de Senha em Assembly
+# 🔐 Password Comparator in Assembly
 
 This project contains Assembly implementations that check whether an argument passed to the program matches a predefined key. It demonstrates string manipulation, flow control, and system calls in pure Assembly, with support for **x86 (32-bit)** and **x86_64 (64-bit)**.
 
